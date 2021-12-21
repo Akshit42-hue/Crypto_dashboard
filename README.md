@@ -11,7 +11,7 @@ This is a ReactJS based web application
 <h2>Features Of the application:</h2>
 <h5>Minimalistic and simple UI</h5>
 <h5>Build with RapidApi </h5>
-<h5>Display the latest news in the News Feed</h5>
+<h5>Display the latest news of crypto in the News Feed</h5>
 
 <h2>Here is a snapshot have a look :point_down: </h2> 
 
